@@ -93,7 +93,7 @@
 					<div class="rond">2012</div>
 				</div>
 				<div class="desc col-md-10 col-sm-8 col-xs-12">
-					<h3 class="titre">Fondation de SURVIVIA Multgaming - <small><i>20 ans</i></small></h3>
+					<h3 class="titre">Fondation de SURVIVIA Multigaming - <small><i>20 ans</i></small></h3>
 					<p>Je découvre l’univers de Minecraft et surtout sa liberté. Je me lance dans de nouveaux serveurs de jeux en tant que gérant et je fonde la société <a href="http://survivia.net" target="_blank">SURVIVIA</a>, pour du durable cette fois. Le projet tourne depuis 2 ans et demi et est correctement maintenu avec plusieurs milliers de joueurs chaque jours.</p>
 					<p>J’ai eu l’opportunité d’organiser le premier tournoi Minecraft Hunger Games de France en LAN grace à l’association <i>Virtual Lan</i>.</p>
 				</div><!--//desc-->                          
@@ -110,8 +110,8 @@
 					<i>spécialité Imagerie, Intelligence artificielle et jeux vidéo</i>.
 					J'y découvre les ficelles des moteurs de jeux coté client. Je travaille actuellement sur un concept
 					de jeu de rythme pour mobile avec le moteur de jeu Unity.</p>
-					<p>En simultané de ces projets principaux, j’ai aussi aussi produit quelques réalisations annexes. 
-					lles sont toutes consultables sur cette page. (Démo / Screenshots / Code sources…)</p>
+					<p>En simultané de ces projets principaux, j’ai aussi aussi produit <a href="projects.html">quelques réalisations annexes</a>. 
+					lles sont toutes consultables sur ce site web. (Démo / Screenshots / Code sources…)</p>
 				</div><!--//desc-->                          
 			</div><!--//item-->
 

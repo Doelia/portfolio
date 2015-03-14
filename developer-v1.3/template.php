@@ -43,7 +43,7 @@
                     <li class="last-item"><a href="mailto:stephane@doelia.fr"><i class="fa fa-envelope"></i></a></li>                  
                 </ul> 
             </div><!--//profile-->
-            <a class="btn btn-cta-primary pull-right" href="contact.html"><i class="fa fa-download"></i>Télécharger mon CV</a>              
+            <a class="btn btn-cta-primary pull-right" target="_blank" href="private/CV/CV.pdf"><i class="fa fa-download"></i>Télécharger mon CV</a>              
         </div><!--//container-->
     </header><!--//header-->
     

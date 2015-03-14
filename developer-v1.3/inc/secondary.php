@@ -30,6 +30,7 @@
 				<h4 class="university">IUT de Montpellier <span class="year">(2011-2013)</span></h4>
 			</div><!--//item-->
 
+				<p><a class="more-link" href="private/CV/CV.pdf" target="_blank"><i class="fa fa-download"></i> Mon CV (PDF)</a></p> 
 				<p><a class="more-link" href="carrer.html"><i class="fa fa-external-link"></i> Mon parcours personnel</a></p> 
 
 		</div><!--//content-->
@@ -44,15 +45,39 @@
 			<div class="skillset">
 			   
 				<div class="item">
-					<h3 class="level-title">Java<span class="level-label" data-toggle="tooltip" data-placement="left" data-animation="true" title="You can use the tooltip to add more info...">Expert</span></h3>
+					<h3 class="level-title">Java<span class="level-label" data-toggle="tooltip" data-placement="left" data-animation="true" title="Très bonne maîtrise du langage (Générécité, Multithreading, Sockets)"><i class="fa fa-info-circle"></i></span></h3>
 					<div class="level-bar">
-						<div class="level-bar-inner" data-level="96%">
+						<div class="level-bar-inner" data-level="95%">
 						</div>                                      
 					</div><!--//level-bar-->                                 
 				</div><!--//item-->
 
 				<div class="item">
-					<h3 class="level-title">C / C++<span class="level-label" data-toggle="tooltip" data-placement="left" data-animation="true" title="You can use the tooltip to add more info...">Expert</span></h3>
+					<h3 class="level-title">Langages du web<span class="level-label" data-toggle="tooltip" data-placement="left" data-animation="true" title="Très bonnes connaisances de toutes les technologies du web"><i class="fa fa-info-circle"></i></span></h3>
+					<div class="level-bar">
+						<div class="level-bar-inner" data-level="95%">
+						</div>                                      
+					</div><!--//level-bar-->                                 
+				</div><!--//item-->
+
+				<div class="item">
+					<h3 class="level-title">C, C++, Qt<span class="level-label" data-toggle="tooltip" data-placement="left" data-animation="true" title="Développement d'applications et logiciels"><i class="fa fa-info-circle"></i></span></h3>
+					<div class="level-bar">
+						<div class="level-bar-inner" data-level="70%">
+						</div>                                      
+					</div><!--//level-bar-->                                 
+				</div><!--//item-->
+
+				<div class="item">
+					<h3 class="level-title">Base de données<span class="level-label" data-toggle="tooltip" data-placement="left" data-animation="true" title="Analyse et conception, MySQL, Oracle"><i class="fa fa-info-circle"></i></span></h3>
+					<div class="level-bar">
+						<div class="level-bar-inner" data-level="80%">
+						</div>                                      
+					</div><!--//level-bar-->                                 
+				</div><!--//item-->
+				
+				<div class="item">
+					<h3 class="level-title">Réseaux<span class="level-label" data-toggle="tooltip" data-placement="left" data-animation="true" title="Géstion et configuration de serveurs, protocoles du web"><i class="fa fa-info-circle"></i></span></h3>
 					<div class="level-bar">
 						<div class="level-bar-inner" data-level="80%">
 						</div>                                      
@@ -60,30 +85,14 @@
 				</div><!--//item-->
 
 				<div class="item">
-					<h3 class="level-title">PHP Avancé<span class="level-label">Expert</span></h3>
+					<h3 class="level-title">Design<span class="level-label" data-toggle="tooltip" data-placement="left" data-animation="true" title="Maitrise de Photoshop. Edition Vidéo"><i class="fa fa-info-circle"></i></span></h3>
 					<div class="level-bar">
-						<div class="level-bar-inner" data-level="96%">
+						<div class="level-bar-inner" data-level="40%">
 						</div>                                      
 					</div><!--//level-bar-->                                 
 				</div><!--//item-->
 				
-				<div class="item">
-					<h3 class="level-title">Javascript / jQuery<span class="level-label">Expert</span></h3>
-					<div class="level-bar">
-						<div class="level-bar-inner" data-level="96%">
-						</div>                                      
-					</div><!--//level-bar-->                                 
-				</div><!--//item-->
-				
-				<div class="item">
-					<h3 class="level-title">HTML5, CSS3<span class="level-label">Expert</span></h3>
-					<div class="level-bar">
-						<div class="level-bar-inner" data-level="96%">
-						</div>                                      
-					</div><!--//level-bar-->                                 
-				</div><!--//item-->
-				
-				<p><a class="more-link" href="skills.html"><i class="fa fa-external-link"></i> Plus sur mes compétences</a></p> 
+				<!--<p><a class="more-link" href="skills.html"><i class="fa fa-external-link"></i> Plus sur mes compétences</a></p> -->
 			</div>              
 		</div><!--//content-->  
 	</div><!--//section-inner-->                 

@@ -1,6 +1,6 @@
 <section class="section carrer">
 	<div class="section-inner">
-		<p><a href="home.html">Retour à l'acceuil</a></p>
+		<p><a href="home.html"><i class="fa fa-chevron-left"></i> Retour à l'accueil</a></p>
 		<br>
 		<h2 class="heading">Parcours personnel vers la découverte profesionelle</h2>
 		<div class="content">    
@@ -80,7 +80,7 @@
 					</p>
 					<p>
 						Je fonde à mon tour un nouveau projet de serveur privé pour un MMORPG, en tant que chef de projet et développeur principal.
-						J’y développe toutes les capacités nécessaire pour gestion de serveurs : Hébergement, administration, UNIX,
+						J’y développe toutes les capacités nécessaire pour gérer un serveur : Hébergement, administration, UNIX,
 						optimisation, gestion des charges...
 						Ce fut mon premier projet personnel avec une réussite. Les serveurs sont montés à des records de 200 connectés simultanés.
 					</p>
@@ -95,7 +95,7 @@
 				<div class="desc col-md-10 col-sm-8 col-xs-12">
 					<h3 class="titre">Fondation de SURVIVIA Multigaming - <small><i>20 ans</i></small></h3>
 					<p>Je découvre l’univers de Minecraft et surtout sa liberté. Je me lance dans de nouveaux serveurs de jeux en tant que gérant et je fonde la société <a href="http://survivia.net" target="_blank">SURVIVIA</a>, pour du durable cette fois. Le projet tourne depuis 2 ans et demi et est correctement maintenu avec plusieurs milliers de joueurs chaque jours.</p>
-					<p>J’ai eu l’opportunité d’organiser le premier tournoi Minecraft Hunger Games de France en LAN grace à l’association <i>Virtual Lan</i>.</p>
+					<p>J’ai eu l’opportunité d'être le responsable et d'organiser le premier tournoi Minecraft Hunger Games de France en LAN grace à l’association <i>Virtual Lan</i>.</p>
 				</div><!--//desc-->                          
 			</div><!--//item-->
 

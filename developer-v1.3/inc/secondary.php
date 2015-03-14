@@ -29,7 +29,7 @@
 				<h4 class="university">IUT de Montpellier<span class="year">(2011-2013)</span></h4>
 			</div><!--//item-->
 
-				<p><a class="more-link" href="#"><i class="fa fa-external-link"></i> Mon parcours personnel</a></p> 
+				<p><a class="more-link" href="carrer.html"><i class="fa fa-external-link"></i> Mon parcours personnel</a></p> 
 
 		</div><!--//content-->
 	</div><!--//section-inner-->
@@ -82,7 +82,7 @@
 					</div><!--//level-bar-->                                 
 				</div><!--//item-->
 				
-				<p><a class="more-link" href="#"><i class="fa fa-external-link"></i> Plus sur mes compétences</a></p> 
+				<p><a class="more-link" href="skills.html"><i class="fa fa-external-link"></i> Plus sur mes compétences</a></p> 
 			</div>              
 		</div><!--//content-->  
 	</div><!--//section-inner-->                 

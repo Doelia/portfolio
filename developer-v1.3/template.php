@@ -48,14 +48,13 @@
         </div><!--//container-->
     </header><!--//header-->
     
-   
     <div class="container sections-wrapper">
         <div class="row">
             <div class="primary col-md-8 col-sm-12 col-xs-12">
                 <?php require($page); ?>
             </div>
              <div class="secondary col-md-4 col-sm-12 col-xs-12">
-                <?php require('secondary.php'); ?>
+                <?php require('inc/secondary.php'); ?>
             </div>
         </div>
     </div>
@@ -78,4 +77,4 @@
     <!-- custom js -->
     <script type="text/javascript" src="assets/js/main.js"></script>            
 </body>
-</html> 
+</html>

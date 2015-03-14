@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->  
-<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->  
-<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->  
+<!--[if IE 8]> <html lang="fr" class="ie8"> <![endif]-->  
+<!--[if IE 9]> <html lang="fr" class="ie9"> <![endif]-->  
+<!--[if !IE]><!--> <html lang="fr"> <!--<![endif]-->  
 <head>
     <title>Stéphane Wouters - Portfolio</title>
     <!-- Meta -->
@@ -62,7 +62,7 @@
     <!-- ******FOOTER****** --> 
     <footer class="footer">
         <div class="container text-center">
-                <small class="copyright">Copyright 2015  <a href="http://doelia.fr" target="_blank">doelia.fr</a></small>
+                <small class="copyright">Copyright 2015 | <a href="http://doelia.fr" target="_blank">Stéphane Wouters</a></small>
         </div><!--//container-->
     </footer><!--//footer-->
  

@@ -564,9 +564,10 @@ hr.divider {
   color: white;
   border-radius: 1000px;
   margin-top: 25px;
-  margin-left: 10px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .carrer .item {
   margin-bottom: 10px;
-}  
+}

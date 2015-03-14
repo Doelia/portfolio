@@ -4,8 +4,7 @@
 		<div class="content">
 			<p>Je suis un développeur agé de 23 ans passioné par l'informatique et interessé par le monde du web.<p>
 			<p>
-			Encore en formation, je m'oriente vers le développement dans les jeux vidéo, avec une préférence pour les modes de jeu en ligne.</p>		 
-			<p>J'aime entreprendre et participer à des projets.</p>
+			Encore en formation, je m'oriente vers le développement dans les jeux vidéos, avec une préférence pour les modes de jeux en ligne.</p>		 
 			<p>
 				Accès rapde aux pages :
 				<ul>

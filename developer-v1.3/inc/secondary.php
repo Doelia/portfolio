@@ -4,6 +4,7 @@
 		<h2 class="heading sr-only">Informations générales</h2>
 		<div class="content">
 			<ul class="list-unstyled">
+				<li><i class="fa fa-user"></i><span class="sr-only">Né le:</span>Stéphane, 22 ans</li>
 				<li><i class="fa fa-map-marker"></i><span class="sr-only">Position:</span>France, Montpellier</li>
 				<li><i class="fa fa-envelope-o"></i><span class="sr-only">Email:</span><a href="#">stephane@doelia.fr</a></li>
 				<li><i class="fa fa-link"></i><span class="sr-only">Website:</span><a href="#">http://doelia.fr</a></li>
@@ -26,7 +27,7 @@
 			</div><!--//item-->
 			<div class="item">
 				<h3 class="title"><i class="fa fa-graduation-cap"></i> DUT Informatique</h3>
-				<h4 class="university">IUT de Montpellier<span class="year">(2011-2013)</span></h4>
+				<h4 class="university">IUT de Montpellier <span class="year">(2011-2013)</span></h4>
 			</div><!--//item-->
 
 				<p><a class="more-link" href="carrer.html"><i class="fa fa-external-link"></i> Mon parcours personnel</a></p> 

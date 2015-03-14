@@ -11,7 +11,7 @@
 				<ul>
 					<li><a href="skills.html">Détails de mes compétences</a></li>
 					<li><a href="carrer.html">Mon parcours personnel depuis mes débuts</a></li>
-					<li><a href="projects.html">Présenstation de mes réalisations</a></li>
+					<li><a href="projects.html">Présentation de mes réalisations</a></li>
 				</ul>
 			</p>
 		</div><!--//content-->

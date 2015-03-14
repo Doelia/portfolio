@@ -8,7 +8,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Responsive HTML5 Website landing Page for Developers">
+    <meta name="description" content="Stéphane Wouters Portfolio">
     <meta name="author" content="3rd Wave Media">    
     <link rel="shortcut icon" href="favicon.ico">  
     <link href='http://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic' rel='stylesheet' type='text/css'>
@@ -18,7 +18,6 @@
     <!-- Plugins CSS -->
     <link rel="stylesheet" href="assets/plugins/font-awesome/css/font-awesome.css">
     <!-- github acitivity css -->
-    <link rel="stylesheet" href="assets/plugins/github-activity/dist/github-activity-0.1.0.min.css">
     <link rel="stylesheet" href="assets/plugins/github-activity/dist/octicons/octions.min.css">
     
     

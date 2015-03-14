@@ -16,8 +16,10 @@
     </div><!--//desc-->                          
 </div><!--//item-->
 
+<hr class="divider">
+
 <div class="item row">
-    <a class="col-md-4 col-sm-4 col-xs-12" href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-web-development-agencies-devstudio/" target="_blank">
+    <a class="col-md-4 col-sm-4 col-xs-12" href="" target="_blank">
     <img class="img-responsive project-image" src="assets/images/projects/desinia.png" alt="project name" />
     </a>
     <div class="desc col-md-8 col-sm-8 col-xs-12">
@@ -31,9 +33,11 @@
     </div><!--//desc-->                          
 </div><!--//item-->
 
+<hr class="divider">
+
 <div class="item row">
-    <a class="col-md-4 col-sm-4 col-xs-12" href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-startups-tempo/" target="_blank">
-    <img class="img-responsive project-image" src="assets/images/projects/project-1.png" alt="project name" />
+    <a class="col-md-4 col-sm-4 col-xs-12" href="" target="_blank">
+    <img class="img-responsive project-image" src="assets/images/projects/defensia.png" alt="project name" />
     </a>
     <div class="desc col-md-8 col-sm-8 col-xs-12">
         <h3 class="title">Defensia, tower defense multijoueur</h3>
@@ -43,10 +47,13 @@
             <a class="btn btn-cta-primary btn-xs" href="https://github.com/doelia/defensia" target="_blank"><i class="fa fa-github"></i> Github</a>
         </p>
     </div><!--//desc-->                          
-</div><!--//item-->                            
+</div><!--//item-->     
+
+<hr class="divider">
+
 <div class="item row">
     <a class="col-md-4 col-sm-4 col-xs-12" href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-mobile-apps-delta/" target="_blank">
-    <img class="img-responsive project-image" src="assets/images/projects/project-2.png" alt="project name" />
+    <img class="img-responsive project-image" src="assets/images/projects/minelia.png" alt="project name" />
     </a>
     <div class="desc col-md-8 col-sm-8 col-xs-12">
         <h3 class="title">Minelia</h3>
@@ -57,6 +64,8 @@
         </p>
     </div><!--//desc-->                          
 </div><!--//item-->
+
+<hr class="divider">
 
 <?php if (isset($next)) { ?>
 

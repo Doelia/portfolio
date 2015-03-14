@@ -542,6 +542,7 @@ iframe {
   margin-top: 4px;
   padding: 4px 10px !important;
   margin-right: 2px;
+  cursor: pointer;
 }
 
 .project-image {

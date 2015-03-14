@@ -35,7 +35,7 @@
     <!-- ******HEADER****** --> 
     <header class="header">
         <div class="container">                       
-            <!--<img class="profile-image img-responsive pull-left" src="assets/images/profile.png" alt="James Lee" />-->
+            <a href="home.html"><img class="profile-image img-responsive pull-left" src="assets/images/profile.png" alt="Stéphane Wouters" /></a>
             <div class="profile-content pull-left">
                 <h1 class="name">Stéphane Wouters</h1>
                 <h2 class="desc">Développeur & Entrepreneur</h2>   

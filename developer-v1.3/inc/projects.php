@@ -1,7 +1,7 @@
 <div class="item row">
-    <a class="col-md-4 col-sm-4 col-xs-12" href="" target="_blank">
+    <div class="col-md-4 col-sm-4 col-xs-12" href="" target="_blank">
     <img class="img-responsive project-image" src="assets/images/projects/survivia.png" alt="project name" />
-    </a>
+    </div>
     <div class="desc col-md-8 col-sm-8 col-xs-12">
         <h3 class="title">SURVIVIA Multigaming</h3>
         <p>
@@ -19,9 +19,9 @@
 <hr class="divider">
 
 <div class="item row">
-    <a class="col-md-4 col-sm-4 col-xs-12" href="" target="_blank">
+    <div class="col-md-4 col-sm-4 col-xs-12" href="" target="_blank">
     <img class="img-responsive project-image" src="assets/images/projects/desinia.png" alt="project name" />
-    </a>
+    </div>
     <div class="desc col-md-8 col-sm-8 col-xs-12">
         <h3 class="title">Dessina, tableau blanc partagé</h3>
         <p>Une sorte de paint génant collaboratif développé en NodeJS. Il est open-sources et une technote/tutoriel est disponible</p>
@@ -36,9 +36,9 @@
 <hr class="divider">
 
 <div class="item row">
-    <a class="col-md-4 col-sm-4 col-xs-12" href="" target="_blank">
+    <div class="col-md-4 col-sm-4 col-xs-12" href="" target="_blank">
     <img class="img-responsive project-image" src="assets/images/projects/defensia.png" alt="project name" />
-    </a>
+    </div>
     <div class="desc col-md-8 col-sm-8 col-xs-12">
         <h3 class="title">Defensia, tower defense multijoueur</h3>
         <p>Un tower defense mutlijoueur développé en deux semaines. Le challenge est surtout technique : le serveur est en PHP threadé et le client en HTML5. Le tout communique par le protocole des websockets.</p>
@@ -52,9 +52,9 @@
 <hr class="divider">
 
 <div class="item row">
-    <a class="col-md-4 col-sm-4 col-xs-12" href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-mobile-apps-delta/" target="_blank">
+    <div class="col-md-4 col-sm-4 col-xs-12" href="" target="_blank">
     <img class="img-responsive project-image" src="assets/images/projects/minelia.png" alt="project name" />
-    </a>
+    </div>
     <div class="desc col-md-8 col-sm-8 col-xs-12">
         <h3 class="title">Minelia</h3>
         <p>Un mini-jeu produit en 48H pour le challenge bi-annuel du Ludum Dare. Développé en HTML/Jquery.</p>

@@ -43,10 +43,10 @@
         <h3 class="title">Defensia, tower defense multijoueur</h3>
         <p>Un tower defense mutlijoueur développé en deux semaines. Le challenge est surtout technique : le serveur est en PHP threadé et le client en HTML5. Le tout communique par le protocole des websockets.</p>
         <p>
-            <a href="assets/images/projects/hd/defensia-1.jpg" class="btn btn-cta-primary btn-xs" data-lightbox="image-1" data-title="Defensia"><i class="fa fa-file-picture-o"></i> Screenshots</a>
-              <a href="assets/images/projects/hd/defensia-2.jpg" data-lightbox="image-1" data-title="Rejoindre une partie"></a>
-             <a href="assets/images/projects/hd/defensia-3.jpg" data-lightbox="image-1" data-title="Changement de vague"></a>
-             <a href="assets/images/projects/hd/defensia-4.jpg" data-lightbox="image-1" data-title="Editeur de map, réalisé par L.Noé"></a>
+            <a href="assets/images/projects/hd/defensia-1.jpg" class="btn btn-cta-primary btn-xs" data-lightbox="image-3" data-title="Defensia"><i class="fa fa-file-picture-o"></i> Screenshots</a>
+              <a href="assets/images/projects/hd/defensia-2.jpg" data-lightbox="image-3" data-title="Rejoindre une partie"></a>
+             <a href="assets/images/projects/hd/defensia-3.jpg" data-lightbox="image-3" data-title="Changement de vague"></a>
+             <a href="assets/images/projects/hd/defensia-4.jpg" data-lightbox="image-3" data-title="Editeur de map, réalisé par L.Noé"></a>
             <a class="btn btn-cta-primary btn-xs" href="https://github.com/doelia/defensia" target="_blank"><i class="fa fa-github"></i> Github</a>
         </p>
     </div><!--//desc-->                          
@@ -74,7 +74,7 @@
 
 <div class="item row">
     <div class="col-md-4 col-sm-4 col-xs-12" href="" target="_blank">
-    <img class="img-responsive project-image" src="assets/images/projects/minelia.png" alt="project name" />
+    <img class="img-responsive project-image" src="assets/images/projects/dominion.png" alt="project name" />
     </div>
     <div class="desc col-md-8 col-sm-8 col-xs-12">
         <h3 class="title">Dominion en ligne</h3>
@@ -98,7 +98,7 @@
 
 <div class="item row">
     <div class="col-md-4 col-sm-4 col-xs-12" href="" target="_blank">
-    <img class="img-responsive project-image" src="assets/images/projects/minelia.png" alt="project name" />
+    <img class="img-responsive project-image" src="assets/images/projects/kystelia.png" alt="project name" />
     </div>
     <div class="desc col-md-8 col-sm-8 col-xs-12">
         <h3 class="title">Kystelia, jeu de gestion de base</h3>
@@ -115,12 +115,12 @@
         </p>
         <p>
             <a class="btn btn-cta-primary btn-xs" target="_blank" href="http://kystelia.doelia.fr"><i class="fa fa-play"></i> Tester</a>
-            <a href="assets/images/projects/hd/kystelia-1.jpg" class="btn btn-cta-primary btn-xs" data-lightbox="image-1" data-title="Interface clan sombre"><i class="fa fa-file-picture-o"></i> Screenshots</a>
-              <a href="assets/images/projects/hd/kystelia-2.jpg" data-lightbox="image-1" data-title="Interface clan lumineux"></a>
-             <a href="assets/images/projects/hd/kystelia-3.jpg" data-lightbox="image-1" data-title="Création d'unités"></a>
-             <a href="assets/images/projects/hd/kystelia-4.jpg" data-lightbox="image-1" data-title="Illustrations par Tiger"></a>
-             <a href="assets/images/projects/hd/kystelia-5.jpg" data-lightbox="image-1" data-title="Système solaire"></a>
-             <a href="assets/images/projects/hd/kystelia-6.jpg" data-lightbox="image-1" data-title="Système de mails intégré"></a>
+            <a href="assets/images/projects/hd/kystelia-1.jpg" class="btn btn-cta-primary btn-xs" data-lightbox="image-2" data-title="Interface clan sombre"><i class="fa fa-file-picture-o"></i> Screenshots</a>
+              <a href="assets/images/projects/hd/kystelia-2.jpg" data-lightbox="image-2" data-title="Interface clan lumineux"></a>
+             <a href="assets/images/projects/hd/kystelia-3.jpg" data-lightbox="image-2" data-title="Création d'unités"></a>
+             <a href="assets/images/projects/hd/kystelia-4.jpg" data-lightbox="image-2" data-title="Illustrations par Tiger"></a>
+             <a href="assets/images/projects/hd/kystelia-5.jpg" data-lightbox="image-2" data-title="Système solaire"></a>
+             <a href="assets/images/projects/hd/kystelia-6.jpg" data-lightbox="image-2" data-title="Système de mails intégré"></a>
         </p>
 
     </div><!--//desc-->                          

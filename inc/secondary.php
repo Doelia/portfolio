@@ -47,7 +47,7 @@
 				<div class="item">
 					<h3 class="level-title">Technologies du web<span class="level-label" data-toggle="tooltip" data-placement="left" data-animation="true" title="Très bonnes connaisances de toutes les technologies du web (HTML5, CSS, Boostrap, PHP avancé, Javascript, jQuery, NodeJS)"><i class="fa fa-info-circle"></i></span></h3>
 					<div class="level-bar">
-						<div class="level-bar-inner" data-level="95%">
+						<div class="level-bar-inner" data-level="97%">
 						</div>                                      
 					</div><!--//level-bar-->                                 
 				</div><!--//item-->
@@ -55,7 +55,7 @@
 				<div class="item">
 					<h3 class="level-title">Java<span class="level-label" data-toggle="tooltip" data-placement="left" data-animation="true" title="Très bonne maîtrise du langage (Générécité, Multithreading, Sockets)"><i class="fa fa-info-circle"></i></span></h3>
 					<div class="level-bar">
-						<div class="level-bar-inner" data-level="95%">
+						<div class="level-bar-inner" data-level="90%">
 						</div>                                      
 					</div><!--//level-bar-->                                 
 				</div><!--//item-->
@@ -80,6 +80,14 @@
 					<h3 class="level-title">Réseaux<span class="level-label" data-toggle="tooltip" data-placement="left" data-animation="true" title="Géstion et configuration de serveurs, protocoles du web"><i class="fa fa-info-circle"></i></span></h3>
 					<div class="level-bar">
 						<div class="level-bar-inner" data-level="85%">
+						</div>                                      
+					</div><!--//level-bar-->                                 
+				</div><!--//item-->
+
+				<div class="item">
+					<h3 class="level-title">Moteur de jeu Unity<span class="level-label" data-toggle="tooltip" data-placement="left" data-animation="true" title="En apprentisage !"><i class="fa fa-info-circle"></i></span></h3>
+					<div class="level-bar">
+						<div class="level-bar-inner" data-level="30%">
 						</div>                                      
 					</div><!--//level-bar-->                                 
 				</div><!--//item-->

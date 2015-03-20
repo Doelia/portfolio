@@ -17,6 +17,7 @@
     <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">   
     <!-- Plugins CSS -->
     <link rel="stylesheet" href="assets/plugins/font-awesome/css/font-awesome.css">
+    <link rel="stylesheet" href="assets/plugins/lightbox/css/lightbox.css">
     <!-- github acitivity css -->
     <link rel="stylesheet" href="assets/plugins/github-activity/dist/octicons/octions.min.css">
     
@@ -70,6 +71,7 @@
     <script type="text/javascript" src="assets/plugins/jquery-migrate-1.2.1.min.js"></script>
     <script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>    
     <script type="text/javascript" src="assets/plugins/jquery-rss/dist/jquery.rss.min.js"></script> 
+    <script type="text/javascript" src="assets/plugins/lightbox/js/lightbox.min.js"></script> 
     <!-- github activity plugin -->
     <script type="text/javascript" src="assets/plugins/github-activity/dist/mustache/mustache.min.js"></script>
     <script type="text/javascript" src="assets/plugins/github-activity/dist/github-activity-0.1.0.min.js"></script>

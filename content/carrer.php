@@ -58,7 +58,7 @@
 					<h3 class="titre">Tentative de projet personnel - <small><i>18 ans</i></small></h3>
 					<p>
 						Je décide de me lancer dans mon propre projet 100% web, en développant un jeu de gestion de base par navigateur :
-						Kystelia. J’en arrive à la fin d’une bêta fonctionnelle, mais pas assez intéressante
+						<a href="projects.html">Kystelia</a>. J’en arrive à la fin d’une bêta fonctionnelle, mais pas assez intéressante
 						pour être mis en production. J’abandonne le projet mais j’y apprend beaucoup en conception
 						et architecture (Organisation du code, utilisation de la POO, communication AJAX…).
 					</p>

@@ -68,9 +68,11 @@
     </div><!--//desc-->                          
 </div><!--//item-->
 
-<hr class="divider">
 
 <?php if (isset($next)) { ?>
+
+<hr class="divider">
+
 
 <div class="item row">
     <div class="col-md-4 col-sm-4 col-xs-12" href="" target="_blank">
@@ -90,11 +92,16 @@
             Réalisé en 2012 dans un cadre universitaire en collaboration avec C.Manuel.
         </p>
         <p>
-            <a class="btn btn-cta-primary btn-xs" href="#"><i class="fa fa-file-picture-o"></i> Screenshots</a>
+            <a href="assets/images/projects/hd/dominion-1.jpg" class="btn btn-cta-primary btn-xs" data-lightbox="image-4" data-title="Interface de jeu"><i class="fa fa-file-picture-o"></i> Screenshots</a>
+            <a href="assets/images/projects/hd/dominion-2.jpg" data-lightbox="image-4" data-title="Lobby"></a>
+            <a href="assets/images/projects/hd/dominion-3.jpg" data-lightbox="image-4" data-title="Zoom sur une carte"></a>
             <a class="btn btn-cta-primary btn-xs" href="https://github.com/doelia/dominion" target="_blank"><i class="fa fa-github"></i> Github</a>
         </p>
     </div><!--//desc-->                          
 </div><!--//item-->
+
+<hr class="divider">
+
 
 <div class="item row">
     <div class="col-md-4 col-sm-4 col-xs-12" href="" target="_blank">
@@ -116,7 +123,7 @@
         <p>
             <a class="btn btn-cta-primary btn-xs" target="_blank" href="http://kystelia.doelia.fr"><i class="fa fa-play"></i> Tester</a>
             <a href="assets/images/projects/hd/kystelia-1.jpg" class="btn btn-cta-primary btn-xs" data-lightbox="image-2" data-title="Interface clan sombre"><i class="fa fa-file-picture-o"></i> Screenshots</a>
-              <a href="assets/images/projects/hd/kystelia-2.jpg" data-lightbox="image-2" data-title="Interface clan lumineux"></a>
+            <a href="assets/images/projects/hd/kystelia-2.jpg" data-lightbox="image-2" data-title="Interface clan lumineux"></a>
              <a href="assets/images/projects/hd/kystelia-3.jpg" data-lightbox="image-2" data-title="Création d'unités"></a>
              <a href="assets/images/projects/hd/kystelia-4.jpg" data-lightbox="image-2" data-title="Illustrations par Tiger"></a>
              <a href="assets/images/projects/hd/kystelia-5.jpg" data-lightbox="image-2" data-title="Système solaire"></a>
@@ -125,6 +132,8 @@
 
     </div><!--//desc-->                          
 </div><!--//item-->
+
+<hr class="divider">
 
 
 

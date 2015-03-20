@@ -77,7 +77,7 @@
 				</div><!--//item-->
 				
 				<div class="item">
-					<h3 class="level-title">Réseaux<span class="level-label" data-toggle="tooltip" data-placement="left" data-animation="true" title="Géstion et configuration de serveurs, protocoles du web"><i class="fa fa-info-circle"></i></span></h3>
+					<h3 class="level-title">Réseaux<span class="level-label" data-toggle="tooltip" data-placement="left" data-animation="true" title="Gestion et configuration de serveurs, protocoles du web"><i class="fa fa-info-circle"></i></span></h3>
 					<div class="level-bar">
 						<div class="level-bar-inner" data-level="85%">
 						</div>                                      
@@ -93,7 +93,7 @@
 				</div><!--//item-->
 
 				<div class="item">
-					<h3 class="level-title">Design<span class="level-label" data-toggle="tooltip" data-placement="left" data-animation="true" title="Intéret pour la création. Maitrise de Photoshop. Edition Vidéo (After Effect)"><i class="fa fa-info-circle"></i></span></h3>
+					<h3 class="level-title">Design<span class="level-label" data-toggle="tooltip" data-placement="left" data-animation="true" title="Intéret pour la création. Maitrise de Photoshop. Edition Vidéo (Première Pro / After Effect)"><i class="fa fa-info-circle"></i></span></h3>
 					<div class="level-bar">
 						<div class="level-bar-inner" data-level="50%">
 						</div>                                      

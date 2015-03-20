@@ -6,7 +6,7 @@
 			<p>
 			Encore en formation, je m'oriente vers le développement dans les jeux vidéos, avec une préférence pour les modes de jeux en ligne.</p>		 
 			<p>
-				Accès rapde aux pages :
+				Accès rapide aux pages :
 				<ul>
 					<li><a href="projects.html">Présentation de mes réalisations</a></li>
 					<li><a href="carrer.html">Mon parcours personnel depuis mes débuts</a></li>

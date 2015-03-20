@@ -62,7 +62,7 @@
     <!-- ******FOOTER****** --> 
     <footer class="footer">
         <div class="container text-center">
-                <small class="copyright">Copyright 2015 | <a href="http://doelia.fr" target="_blank">Stéphane Wouters</a></small>
+                <small class="copyright">Copyright 2015 | <a href="http://doelia.fr">Stéphane Wouters</a></small>
         </div><!--//container-->
     </footer><!--//footer-->
  

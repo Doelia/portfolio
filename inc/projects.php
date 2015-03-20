@@ -6,7 +6,7 @@
         <h3 class="title">SURVIVIA Multigaming</h3>
         <p>
         SURVIVIA est une plateforme de serveurs de jeux Minecraft que j'ai fondé en 2012. 
-        La communauté est formée de plus de 300'000 membres et des milliers de joueurs se connectent chaque jours.
+        La communauté est formée de plus de 300'000 membres et des milliers de joueurs se connectent chaque jour.
         Le réseau est devenu une société.
         </p>
           <p>
@@ -24,7 +24,7 @@
     </div>
     <div class="desc col-md-8 col-sm-8 col-xs-12">
         <h3 class="title">Dessina, tableau blanc partagé</h3>
-        <p>Une sorte de paint génant collaboratif développé en NodeJS. Il est open-sources et une technote/tutoriel est disponible</p>
+        <p>Un paint géant collaboratif développé en NodeJS. Il est open-sources et une technote/tutoriel est disponible</p>
         <p>
             <a class="btn btn-cta-primary btn-xs" href="http://desinia.doelia.fr" target="_blank"><i class="fa fa-play"></i> Démo</a>
             <a class="btn btn-cta-primary btn-xs" href="http://whiteboard.doelia.fr" target="_blank"><i class="fa fa-book"></i> Technote</a>
@@ -60,7 +60,7 @@
     </div>
     <div class="desc col-md-8 col-sm-8 col-xs-12">
         <h3 class="title">Minelia</h3>
-        <p>Mini-jeu de plateau produit en 48H pour le challenge bi-annuel du Ludum Dare 25 (Décembre 2012). Développé en HTML/Jquery.</p>
+        <p>Mini-jeu de plateau produit en 48H pour le challenge biannuel du Ludum Dare 25 (Décembre 2012). Développé en HTML/Jquery.</p>
         <p>
             <a class="btn btn-cta-primary btn-xs" target="_blank" href="http://minelia.doelia.fr"><i class="fa fa-play"></i> Démo</a>
             <a class="btn btn-cta-primary btn-xs" href="#"><i class="fa fa-file-picture-o"></i> Screenshots</a>
@@ -114,11 +114,11 @@
             pour évoluer et gagner en puissance dans l'univers face aux autres joueurs.
         </p>
         <p>
-            Réalisé en solo en 2010 à l'age de 17 ans sans ambition particulière, mais surtout pour le plaisir de créer et d'apprendre.
+            Réalisé en solo en 2010 à l'âge de 17 ans sans ambition particulière, mais surtout pour le plaisir de créer et d'apprendre.
         </p>
         <p>
              Le jeu a tourné pendant quelques mois avec une petite communauté d'une 30éne de joueur.
-             Le jeu est aujourd'hui archivé mais remis en ligne récemment pour test et découverte.
+             Le jeu est aujourd'hui archivé, mais remis en ligne récemment pour test et découverte.
         </p>
         <p>
             <a class="btn btn-cta-primary btn-xs" target="_blank" href="http://kystelia.doelia.fr"><i class="fa fa-play"></i> Tester</a>

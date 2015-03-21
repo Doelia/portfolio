@@ -11,7 +11,7 @@
         </p>
           <p>
             <a class="btn btn-cta-primary btn-xs" href="http://survivia.net" target="_blank"><i class="fa fa-link"></i> Site web</a>
-            <a class="btn btn-cta-primary btn-xs" href="#" target="_blank"><i class="fa fa-youtube-play"></i> Trailer</a>
+            <a class="btn btn-cta-primary btn-xs trailerButton"><i class="fa fa-youtube-play"></i> Trailer</a>
         </p>
     </div><!--//desc-->                          
 </div><!--//item-->

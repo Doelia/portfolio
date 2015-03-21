@@ -537,27 +537,21 @@ iframe {
     width: 1360px;
   }
 }
-
-/***** CUSTOM CSS *****/
-
 .btn-xs {
   margin-top: 4px;
   padding: 4px 10px !important;
   margin-right: 2px;
   cursor: pointer;
 }
-
 .project-image {
   border-radius: 4px;
 }
-
 hr.divider {
-  margin-bottom: 30px !important; 
-  margin-top: 30px !important; 
+  margin-bottom: 30px !important;
+  margin-top: 30px !important;
 }
-
 .rond {
-  background: #66cb8c;
+  background: #54ba4e;
   font-size: 20px;
   height: 80px;
   width: 80px;
@@ -569,7 +563,6 @@ hr.divider {
   margin-left: auto;
   margin-right: auto;
 }
-
 .carrer .item {
   margin-bottom: 10px;
 }

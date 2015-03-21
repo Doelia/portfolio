@@ -18,9 +18,6 @@
     <!-- Plugins CSS -->
     <link rel="stylesheet" href="assets/plugins/font-awesome/css/font-awesome.css">
     <link rel="stylesheet" href="assets/plugins/lightbox/css/lightbox.css">
-    <!-- github acitivity css -->
-    <link rel="stylesheet" href="assets/plugins/github-activity/dist/octicons/octions.min.css">
-    
     
     <!-- Theme CSS -->  
     <link id="theme-style" rel="stylesheet" href="assets/css/styles.css">

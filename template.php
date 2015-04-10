@@ -38,7 +38,7 @@
             <a href="home.html"><img class="profile-image img-responsive pull-left" src="assets/images/profile_2.png" alt="Stéphane Wouters" /></a>
             <div class="profile-content pull-left">
                 <h1 class="name">Stéphane Wouters</h1>
-                <h2 class="desc">Développeur & Entrepreneur</h2>   
+                <h2 class="desc">Développeur</h2>   
                 <ul class="social list-inline">
                     <li><a href="https://github.com/doelia" target="_blank"><i class="fa fa-github-alt"></i></a></li>                  
                     <li class="last-item"><a href="mailto:stephane@doelia.fr"><i class="fa fa-envelope"></i></a></li>                  

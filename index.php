@@ -8,4 +8,3 @@ if (isset($_GET['page']) && $_GET['page']) {
 
 $page = 'content/'.$p.'.php';
 require('template.php');
-

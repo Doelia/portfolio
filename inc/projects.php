@@ -26,10 +26,10 @@
     <img class="img-responsive project-image" src="assets/images/projects/heliko.png" alt="project name" />
     </div>
     <div class="content">
-        <h3 class="header">Heliko</h3>
+        <h3 class="header">Heliko, jeu de rythme pour mobile</h3>
         <div class="description">
             <p>
-                Jeu de rythme réalisé à 4 développeur avec le moteur de jeu <a href="http://unity3d.com/">Unity 3D</a> dans un cadre universitaire dans l'optique de découvrir toutes les étapes de la cration d'un jeu, de sa conception jusqu'à sa mise en ligne.
+                Jeu de rythme pour mobile réalisé à 4 développeur avec le moteur de jeu <a href="http://unity3d.com/">Unity 3D</a> dans un cadre universitaire dans l'optique de découvrir toutes les étapes de la cration d'un jeu, de sa conception jusqu'à sa mise en ligne.
             </p>
             <p>
                 Nous y avons découvert toutes les facettes du monde des jeux mobile : Droits de publication, service de statistiques, publicité rémunéré, boutique...

@@ -1,5 +1,3 @@
-<div class="ui divider"></div>
-
  <aside class="info aside section">
 	<div class="section-inner">
 		<h2 class="heading sr-only">Stéphane Wouters</h2>
@@ -44,14 +42,14 @@
     				<i class="large student middle aligned icon"></i>
                     <div class="content">
                         <div class="header">Licence Informatique</div>
-        				<div class="description">Université Montpellier II <span class="year">(2013-2014)</span></div>
+        				<div class="description">Université Montpellier II <span class="year">(2013 - 2014)</span></div>
                     </div>
     			</div>
     			<div class="item">
     			    <i class="large student middle aligned icon"></i>
                     <div class="content">
                         <div class="header">DUT Informatique</div>
-        				<div class="description">IUT de Montpellier <span class="year">(2011-2013)</span></div>
+        				<div class="description">IUT de Montpellier <span class="year">(2011 - 2013)</span></div>
                     </div>
     			</div>
             </div>

@@ -18,36 +18,35 @@
 
 </head>
 <body>
-    <!-- ******HEADER****** -->
     <header class="header">
         <div class="container">
             <a href="home.html"><img class="profile-image img-responsive pull-left" src="assets/images/profile_4.png" alt="Stéphane Wouters" /></a>
             <div class="profile-content pull-left">
-                <h1 class="name">Stéphane Wouters</h1>
-                <h2 class="desc">Développeur</h2>
-                <ul class="social list-inline">
-                    <li><a href="https://github.com/doelia" target="_blank"><i class="fa fa-github-alt"></i></a></li>
-                    <li class="last-item"><a href="mailto:stephane@doelia.fr"><i class="fa fa-envelope"></i></a></li>
+                <h1 class="">Stéphane Wouters</h1>
+                <h2 class="">Développeur</h2>
+                <ul class="">
+                    <li class=""><a href="https://github.com/doelia" target="_blank"><i class="fa fa-github-alt"></i></a></li>
+                    <li class=""><a href="mailto:stephane@doelia.fr"><i class="fa fa-envelope"></i></a></li>
                 </ul>
-            </div><!--//profile-->
-            <a class="btn btn-cta-primary pull-right" target="_blank" href="private/CV/CV.pdf"><i class="fa fa-download"></i>Télécharger mon CV</a>
-        </div><!--//container-->
-    </header><!--//header-->
+            </div>
+            <a class="btn pull-right" target="_blank" href="private/CV/CV.pdf"><i class="fa fa-download"></i>Télécharger mon CV</a>
+        </div>
+    </header>
 
-    <div class="container sections-wrapper">
+    <div class="container">
         <div class="row">
-            <div class="primary col-md-8 col-sm-12 col-xs-12">
+            <div class="primary">
                 <?php //require($page); ?>
             </div>
-             <div class="secondary col-md-4 col-sm-12 col-xs-12">
-                <?php require('inc/secondary.php'); ?>
+             <div class="secondary">
+                <?php //require('inc/secondary.php'); ?>
             </div>
         </div>
     </div>
 
     <footer class="footer">
         <div class="container text-center">
-                <small class="copyright">Copyright 2015 | <a href="http://doelia.fr">Stéphane Wouters</a></small>
+            <small class="copyright">Copyright 2015 | <a href="http://doelia.fr">Stéphane Wouters</a></small>
         </div>
     </footer>
 

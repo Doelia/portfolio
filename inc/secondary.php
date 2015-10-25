@@ -34,8 +34,8 @@
 				<h4 class="university">IUT de Montpellier <span class="year">(2011-2013)</span></h4>
 			</div><!--//item-->
 
-				<p><a class="more-link" href="private/CV/CV.pdf" target="_blank"><i class="fa fa-download"></i> Mon CV (PDF)</a></p>
-				<p><a class="more-link" href="carrer.html"><i class="fa fa-external-link"></i> Mon parcours personnel</a></p>
+			<p><a class="more-link" href="private/CV/CV.pdf" target="_blank"><i class="fa fa-download"></i> Mon CV (PDF)</a></p>
+			<p><a class="more-link" href="carrer.html"><i class="fa fa-external-link"></i> Mon parcours personnel</a></p>
 
 		</div><!--//content-->
 	</div><!--//section-inner-->

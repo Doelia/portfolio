@@ -18,6 +18,24 @@
 
 </head>
 <body>
+    <div class="ui inverted vertical masthead center aligned segment">
+
+    <div class="ui container">
+      <div class="ui large secondary inverted pointing menu">
+        <a href="/" class="toc item">
+          <i class="sidebar icon"></i>
+        </a>
+        <?= writeTab('home', 'Accueil') ?>
+        <?= writeTab('projects', 'Projets persos') ?>
+        <?= writeTab('carrer', 'Parcours pro') ?>
+        <div class="right item">
+        </div>
+      </div>
+    </div>
+
+
+  </div>
+
     <header class="header">
         <div class="ui container">
             <a href="home.html"><img class="profile-image img-responsive pull-left" src="assets/images/profile_4.png" alt="Stéphane Wouters" /></a>

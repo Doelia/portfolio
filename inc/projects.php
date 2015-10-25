@@ -3,9 +3,28 @@
     <img class="img-responsive project-image" src="assets/images/projects/survivia.png" alt="project name" />
     </div>
     <div class="desc col-md-8 col-sm-8 col-xs-12">
+        <h3 class="title">Bourbaki</h3>
+        <p>
+        Implémentation du jeu de la Pipopipette (ou jeu des petits carrés)
+        Développé en trois semaines en binôme dans le but d'apprendre le langage Golang.
+        Toutes les informations sur le repo <a href="https://github.com/doelia/bourbaki" target="_blank">Github</a>.
+        </p>
+        <p>
+            <a class="btn btn-cta-primary btn-xs" href="https://github.com/doelia/bourbaki" target="_blank"><i class="fa fa-github"></i> Github</a>
+            <a class="btn btn-cta-primary btn-xs" href="http://bourbaki.doelia.fr:2000" target="_blank"><i class="fa fa-play"></i> Démo</a>
+        </p>
+    </div><!--//desc-->
+</div><!--//item-->
+
+
+<div class="item row">
+    <div class="col-md-4 col-sm-4 col-xs-12" href="" target="_blank">
+    <img class="img-responsive project-image" src="assets/images/projects/survivia.png" alt="project name" />
+    </div>
+    <div class="desc col-md-8 col-sm-8 col-xs-12">
         <h3 class="title">SURVIVIA Multigaming</h3>
         <p>
-        SURVIVIA est une plateforme de serveurs de jeux Minecraft que j'ai fondé en 2012. 
+        SURVIVIA est une plateforme de serveurs de jeux Minecraft que j'ai fondé en 2012.
         La communauté est formée de plus de 300'000 membres et des milliers de joueurs se connectent chaque jour.
         Le réseau est devenu une société.
         </p>
@@ -13,7 +32,7 @@
             <a class="btn btn-cta-primary btn-xs" href="http://survivia.net" target="_blank"><i class="fa fa-link"></i> Site web</a>
             <a class="btn btn-cta-primary btn-xs trailerButton"><i class="fa fa-youtube-play"></i> Trailer</a>
         </p>
-    </div><!--//desc-->                          
+    </div><!--//desc-->
 </div><!--//item-->
 
 <hr class="divider">
@@ -30,7 +49,7 @@
             <a class="btn btn-cta-primary btn-xs" href="http://whiteboard.doelia.fr" target="_blank"><i class="fa fa-book"></i> Technote</a>
             <a class="btn btn-cta-primary btn-xs" href="https://github.com/doelia/realtimeboard" target="_blank"><i class="fa fa-github"></i> Github</a>
         </p>
-    </div><!--//desc-->                          
+    </div><!--//desc-->
 </div><!--//item-->
 
 <hr class="divider">
@@ -49,8 +68,8 @@
              <a href="assets/images/projects/hd/defensia-4.jpg" data-lightbox="image-3" data-title="Editeur de map, réalisé par L.Noé"></a>
             <a class="btn btn-cta-primary btn-xs" href="https://github.com/doelia/defensia" target="_blank"><i class="fa fa-github"></i> Github</a>
         </p>
-    </div><!--//desc-->                          
-</div><!--//item-->     
+    </div><!--//desc-->
+</div><!--//item-->
 
 <hr class="divider">
 
@@ -65,7 +84,7 @@
             <a class="btn btn-cta-primary btn-xs" target="_blank" href="http://minelia.doelia.fr"><i class="fa fa-play"></i> Démo</a>
             <a class="btn btn-cta-primary btn-xs" href="#"><i class="fa fa-file-picture-o"></i> Screenshots</a>
         </p>
-    </div><!--//desc-->                          
+    </div><!--//desc-->
 </div><!--//item-->
 
 
@@ -97,7 +116,7 @@
             <a href="assets/images/projects/hd/dominion-3.jpg" data-lightbox="image-4" data-title="Zoom sur une carte"></a>
             <a class="btn btn-cta-primary btn-xs" href="https://github.com/doelia/dominion" target="_blank"><i class="fa fa-github"></i> Github</a>
         </p>
-    </div><!--//desc-->                          
+    </div><!--//desc-->
 </div><!--//item-->
 
 <hr class="divider">
@@ -130,7 +149,7 @@
              <a href="assets/images/projects/hd/kystelia-6.jpg" data-lightbox="image-2" data-title="Système de mails intégré"></a>
         </p>
 
-    </div><!--//desc-->                          
+    </div><!--//desc-->
 </div><!--//item-->
 
 <hr class="divider">
@@ -139,5 +158,4 @@
 
 <?php } else { ?>
     <a href="projects.html">Toutes mes réalisations sur leur page dédiée</a>
-<?php } ?> 
-
+<?php } ?>

@@ -18,36 +18,19 @@
 
 </head>
 <body>
-    <div class="ui inverted vertical masthead center aligned segment">
-
-    <div class="ui container">
-      <div class="ui large secondary inverted pointing menu">
-        <a href="/" class="toc item">
-          <i class="sidebar icon"></i>
-        </a>
-        <?= writeTab('home', 'Accueil') ?>
-        <?= writeTab('projects', 'Projets persos') ?>
-        <?= writeTab('carrer', 'Parcours pro') ?>
-        <div class="right item">
-        </div>
-      </div>
-    </div>
-
-
-  </div>
-
-    <header class="header">
+    <header class="ui inverted vertical masthead center aligned segment">
         <div class="ui container">
-            <a href="home.html"><img class="profile-image img-responsive pull-left" src="assets/images/profile_4.png" alt="Stéphane Wouters" /></a>
-            <div class="profile-content pull-left">
-                <h1 class="">Stéphane Wouters</h1>
-                <h2 class="">Développeur</h2>
-                <ul class="">
-                    <li class=""><a href="https://github.com/doelia" target="_blank"><i class="fa fa-github-alt"></i></a></li>
-                    <li class=""><a href="mailto:stephane@doelia.fr"><i class="fa fa-envelope"></i></a></li>
-                </ul>
+            <div class="ui large secondary inverted pointing menu">
+                <a href="/" class="toc item">
+                    <i class="sidebar icon"></i>
+                </a>
+                <?= writeTab('home', 'Accueil') ?>
+                <?= writeTab('projects', 'Projets persos') ?>
+                <?= writeTab('carrer', 'Parcours pro') ?>
+                <?= writeTab('skills', 'Compétences') ?>
+                <div class="right item">
+                </div>
             </div>
-            <a class="ui primary button right" target="_blank" href="private/CV/CV.pdf"><i class="fa fa-download"></i>Télécharger mon CV</a>
         </div>
     </header>
 
@@ -56,7 +39,7 @@
             <div class="ten wide column primary">
                 <?php require($page); ?>
             </div>
-             <div class="six wide column secondary">
+            <div class="six wide column secondary">
                 <?php require('inc/secondary.php'); ?>
             </div>
         </div>
@@ -74,7 +57,6 @@
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.1/js/lightbox.min.js"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
     <script type="text/javascript" src="assets/js/main.js"></script>
-
 
 </body>
 </html>

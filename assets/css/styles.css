@@ -26,3 +26,7 @@ body {
 .projects {
     padding-top: 20px;
 }
+
+header.ui.inverted.segment {
+    margin-bottom: 40px;
+}

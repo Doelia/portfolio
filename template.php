@@ -19,7 +19,7 @@
 </head>
 <body>
     <header class="header">
-        <div class="container">
+        <div class="ui container">
             <a href="home.html"><img class="profile-image img-responsive pull-left" src="assets/images/profile_4.png" alt="Stéphane Wouters" /></a>
             <div class="profile-content pull-left">
                 <h1 class="">Stéphane Wouters</h1>
@@ -29,23 +29,23 @@
                     <li class=""><a href="mailto:stephane@doelia.fr"><i class="fa fa-envelope"></i></a></li>
                 </ul>
             </div>
-            <a class="btn pull-right" target="_blank" href="private/CV/CV.pdf"><i class="fa fa-download"></i>Télécharger mon CV</a>
+            <a class="ui primary button right" target="_blank" href="private/CV/CV.pdf"><i class="fa fa-download"></i>Télécharger mon CV</a>
         </div>
     </header>
 
-    <div class="container">
-        <div class="row">
-            <div class="primary">
-                <?php //require($page); ?>
+    <div class="ui container">
+        <div class="ui container grid">
+            <div class="ten wide column primary">
+                <?php require($page); ?>
             </div>
-             <div class="secondary">
-                <?php //require('inc/secondary.php'); ?>
+             <div class="six wide column secondary">
+                <?php require('inc/secondary.php'); ?>
             </div>
         </div>
     </div>
 
-    <footer class="footer">
-        <div class="container text-center">
+    <footer class="ui footer">
+        <div class="ui centered inverted">
             <small class="copyright">Copyright 2015 | <a href="http://doelia.fr">Stéphane Wouters</a></small>
         </div>
     </footer>

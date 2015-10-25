@@ -2,7 +2,7 @@
 
 <div class="item">
     <div class="image" href="" target="_blank">
-        <img class="img-responsive project-image" src="assets/images/projects/survivia.png" alt="project name" />
+        <img class="img-responsive project-image" src="assets/images/projects/bourbaki.png" alt="project name" />
     </div>
     <div class="content">
         <div class="header">Bourbaki, jeu des petits carrés</div>
@@ -23,7 +23,7 @@
 
 <div class="item">
     <div class="image" href="" target="_blank">
-    <img class="img-responsive project-image" src="assets/images/projects/survivia.png" alt="project name" />
+    <img class="img-responsive project-image" src="assets/images/projects/heliko.png" alt="project name" />
     </div>
     <div class="content">
         <h3 class="header">Heliko</h3>

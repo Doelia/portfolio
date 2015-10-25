@@ -164,5 +164,7 @@
 <hr class="divider">
 
 <?php } else { ?>
-    <a href="projects.html">Toutes mes réalisations sur leur page dédiée</a>
+    <h4 class="ui horizontal header divider">
+    <a href="projects.html">Suite de mes réalisations</a>
+  </h4>
 <?php } ?>

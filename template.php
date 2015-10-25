@@ -44,9 +44,9 @@
         </div>
     </div>
 
-    <footer class="ui footer">
-        <div class="ui centered inverted">
-            <small class="copyright">Copyright 2015 | <a href="http://doelia.fr">Stéphane Wouters</a></small>
+    <footer class="ui inverted vertical footer segment">
+        <div class="ui center aligned container">
+            Copyright 2015 | <a href="http://doelia.fr">Stéphane Wouters</a>
         </div>
     </footer>
 

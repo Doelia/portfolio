@@ -53,26 +53,6 @@
     </div>
 </div>
 
-<!-- <div class="ui divider"></div>
-
-<div class="item">
-    <div class="image" href="" target="_blank">
-    <img class="img-responsive project-image" src="assets/images/projects/survivia.png" alt="project name" />
-    </div>
-    <div class="content">
-        <h3 class="header">SURVIVIA Multigaming</h3>
-        <div class="description">
-        SURVIVIA est une plateforme de serveurs de jeux Minecraft que j'ai pu fonder en 2012.
-        La communauté est formée de plus de 300'000 membres et des milliers de joueurs se connectent chaque jour.
-        Le réseau est devenu une société, jusqu'à sa fermeture en juin 2015.
-        </div>
-        <div class="links">
-            <a class="ui primary button tiny" href="http://survivia.net" target="_blank"><i class="fa fa-link"></i> Site web</a>
-            <a class="ui primary button tiny trailerButton"><i class="fa fa-youtube-play"></i> Trailer</a>
-        </div>
-    </div>
-</div> -->
-
 <div class="ui divider"></div>
 
 <div class="item">

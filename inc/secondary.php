@@ -10,9 +10,9 @@
 				<div class="item"><i class="fa fa-envelope-o"></i><a href="#">stephane@doelia.fr</a></div>
 				<div class="item"><i class="fa fa-link"></i><a href="#">http://doelia.fr</a></div>
 			</ul>
-		</div><!--//content-->
-	</div><!--//section-inner-->
-</aside><!--//aside-->
+		</div>
+	</div>
+</aside>
 
 <div class="ui divider"></div>
 
@@ -25,14 +25,19 @@
     				<i class="large student middle aligned icon"></i>
                     <div class="content">
                         <div class="header">Master 2 Informatique AIGLE</div>
-    				    <div class="description">Université Montpellier II <span class="year">(2015 - En cours)</span></div>
+    				    <div class="description">
+                            <i>Architectures et Ingénierie du Logiciel et du Web</i><br>
+                            Université Montpellier II <span class="year">(2015 - En cours)</span>
+                        </div>
                     </div>
     			</div>
     			<div class="item">
     				<i class="large student middle aligned icon"></i>
                     <div class="content">
                         <div class="header">Master 1 Informatique IMAGINA</div>
-        				<div class="description">Université Montpellier II <span class="year">(2014 - 2015)</span></div>
+        				<div class="description">
+                            <i>Images, Games and Intelligent Agents</i><br>
+                            Université Montpellier II <span class="year">(2014 - 2015)</span></div>
                     </div>
     			</div>
     			<div class="item">
@@ -49,12 +54,14 @@
         				<div class="description">IUT de Montpellier <span class="year">(2011-2013)</span></div>
                     </div>
     			</div>
-
-    			<p><a class="more-link" href="private/CV/CV.pdf" target="_blank"><i class="fa fa-download"></i> Mon CV (PDF)</a></p>
             </div>
-		</div><!--//content-->
-	</div><!--//section-inner-->
-</aside><!--//section-->
+		</div>
+	</div>
+</aside>
+
+<div class="ui divider"></div>
+
+<p><a class="more-link" href="private/CV/CV.pdf" target="_blank"><i class="fa fa-download"></i> Mon CV (PDF)</a></p>
 
 <div class="ui divider"></div>
 

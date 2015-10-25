@@ -12,7 +12,7 @@
             Le client est developpé avec les dernières technologies du web (Framework Semantic UI, Less, websockets...).
         </div>
         <div class="links">
-            <a class="ui primary button tiny" href="http://bourbaki.doelia.fr:2000" target="_blank"><i class="fa fa-play"></i> Démo</a>
+            <a class="ui green button tiny" href="http://bourbaki.doelia.fr:2000" target="_blank"><i class="fa fa-play"></i> Démo</a>
             <a class="ui primary button tiny" href="https://github.com/doelia/bourbaki/raw/master/readme.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> Détails du projet</a>
             <a class="ui primary button tiny" href="https://github.com/doelia/bourbaki" target="_blank"><i class="fa fa-github"></i> Github</a>
         </div>
@@ -37,7 +37,7 @@
             </p>
         </div>
         <div class="links">
-            <a class="ui primary button tiny" href="https://play.google.com/store/apps/details?id=com.oufmania.heliko&hl=fr" target="_blank"><i class="fa fa-android"></i> Google Play</a>
+            <a class="ui green button tiny" href="https://play.google.com/store/apps/details?id=com.oufmania.heliko&hl=fr" target="_blank"><i class="fa fa-android"></i> Google Play</a>
             <a class="ui primary button tiny" href="https://github.com/Doelia/Heliko/raw/master/documents/rapport/RapportProjet-Oufmania.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> Rapport de projet</a>
         </div>
     </div>
@@ -73,7 +73,7 @@
         <h3 class="header">Dessina, tableau blanc partagé</h3>
         <div class="description">Un paint géant collaboratif développé en NodeJS. Il est open-sources et une technote/tutoriel est disponible.</div>
         <div class="links">
-            <a class="ui primary button tiny" href="http://desinia.doelia.fr" target="_blank"><i class="fa fa-play"></i> Démo</a>
+            <a class="ui green button tiny" href="http://desinia.doelia.fr" target="_blank"><i class="fa fa-play"></i> Démo</a>
             <a class="ui primary button tiny" href="http://whiteboard.doelia.fr" target="_blank"><i class="fa fa-book"></i> Technote</a>
             <a class="ui primary button tiny" href="https://github.com/doelia/realtimeboard" target="_blank"><i class="fa fa-github"></i> Github</a>
         </div>
@@ -90,6 +90,7 @@
         <h3 class="header">Defensia, tower defense multijoueur</h3>
         <div class="description">Un tower defense mutlijoueur développé en binome en deux semaines. Le challenge est surtout technique : le serveur est en PHP threadé et le client en HTML5. Le tout communique par le protocole des websockets.</div>
         <div class="links">
+            <div class="ui disabled button tiny"><i class="fa fa-play"></i> Démo</div>
             <a href="assets/images/projects/hd/defensia-1.jpg" class="ui primary button tiny" data-lightbox="image-3" data-title="Defensia"><i class="fa fa-file-picture-o"></i> Screenshots</a>
             <a href="assets/images/projects/hd/defensia-2.jpg" data-lightbox="image-3" data-title="Rejoindre une partie"></a>
             <a href="assets/images/projects/hd/defensia-3.jpg" data-lightbox="image-3" data-title="Changement de vague"></a>
@@ -109,8 +110,9 @@
         <h3 class="header">Minelia</h3>
         <div class="description">Mini-jeu de plateau produit en 48H pour le challenge biannuel du Ludum Dare 25 (Décembre 2012). Développé en HTML/Jquery.</div>
         <div class="links">
-            <a class="ui primary button tiny" target="_blank" href="http://minelia.doelia.fr"><i class="fa fa-play"></i> Démo</a>
+            <a class="ui green button tiny" target="_blank" href="http://minelia.doelia.fr"><i class="fa fa-play"></i> Démo</a>
             <a class="ui primary button tiny" href="#"><i class="fa fa-file-picture-o"></i> Screenshots</a>
+            <a class="ui primary button tiny" href="https://github.com/doelia/minelia" target="_blank"><i class="fa fa-github"></i> Github</a>
         </div>
     </div>
 </div>
@@ -139,6 +141,7 @@
         </p>
         </div>
         <div class="links">
+            <div class="ui disabled button tiny"><i class="fa fa-play"></i> Démo</div>
             <a href="assets/images/projects/hd/dominion-1.jpg" class="ui primary button tiny" data-lightbox="image-4" data-title="Interface de jeu"><i class="fa fa-file-picture-o"></i> Screenshots</a>
             <a href="assets/images/projects/hd/dominion-2.jpg" data-lightbox="image-4" data-title="Lobby"></a>
             <a href="assets/images/projects/hd/dominion-3.jpg" data-lightbox="image-4" data-title="Zoom sur une carte"></a>
@@ -169,7 +172,7 @@
         </p>
         </div>
         <div class="links">
-            <a class="ui primary button tiny" target="_blank" href="http://kystelia.doelia.fr"><i class="fa fa-play"></i> Tester</a>
+            <a class="ui disabled button tiny" target="_blank" href="http://kystelia.doelia.fr"><i class="fa fa-play"></i> Tester</a>
             <a href="assets/images/projects/hd/kystelia-1.jpg" class="ui primary button tiny" data-lightbox="image-2" data-title="Interface clan sombre"><i class="fa fa-file-picture-o"></i> Screenshots</a>
             <a href="assets/images/projects/hd/kystelia-2.jpg" data-lightbox="image-2" data-title="Interface clan lumineux"></a>
             <a href="assets/images/projects/hd/kystelia-3.jpg" data-lightbox="image-2" data-title="Création d'unités"></a>

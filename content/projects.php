@@ -1,11 +1,12 @@
 <section class="latest section">
 	<div class="section-inner">
         <h1 class="ui header">
-          <i class="plug icon"></i>
+          <i class="rocket icon"></i>
           <div class="content">
             Projets personnels
           </div>
-      </h2>
+      </h1>
+      <div class="ui divider"></div>
 		<div class="content">
 			<?php $next = true; require('inc/projects.php'); ?>
 		</div>

@@ -5,7 +5,12 @@
         <img class="img-responsive project-image" src="assets/images/projects/bourbaki.png" alt="project name" />
     </div>
     <div class="content">
-        <div class="header">Bourbaki, jeu des petits carrés</div>
+        <h2 class="ui header">
+          <div class="content">
+            Bourbaki
+            <div class="sub header">Jeu des petits carrés multijoueur</div>
+          </div>
+        </h2>
         <div class="description">
             Implémentation du jeu de la <a href="https://fr.wikipedia.org/wiki/La_Pipopipette">Pipopipette</a> (ou jeu des petits carrés).
             Développé en trois semaines en binôme dans le but d'apprendre le langage Golang.
@@ -26,7 +31,12 @@
     <img class="img-responsive project-image" src="assets/images/projects/heliko.png" alt="project name" />
     </div>
     <div class="content">
-        <h3 class="header">Heliko, jeu de rythme pour mobile</h3>
+        <h2 class="ui header">
+          <div class="content">
+            Heliko
+            <div class="sub header">Jeu de rythme pour mobile</div>
+          </div>
+        </h2>
         <div class="description">
             <p>
                 Jeu de rythme pour mobile réalisé à 4 développeur avec le moteur de jeu <a href="http://unity3d.com/">Unity 3D</a> dans un cadre universitaire dans l'optique de découvrir toutes les étapes de la cration d'un jeu, de sa conception jusqu'à sa mise en ligne.
@@ -70,7 +80,12 @@
     <img class="img-responsive project-image" src="assets/images/projects/desinia.png" alt="project name" />
     </div>
     <div class="content">
-        <h3 class="header">Dessina, tableau blanc partagé</h3>
+        <h2 class="ui header">
+          <div class="content">
+            Dessina
+            <div class="sub header">Tableau blanc partagé</div>
+          </div>
+        </h2>
         <div class="description">Un paint géant collaboratif développé en NodeJS. Il est open-sources et une technote/tutoriel est disponible.</div>
         <div class="links">
             <a class="ui green button tiny" href="http://desinia.doelia.fr" target="_blank"><i class="fa fa-play"></i> Démo</a>
@@ -87,7 +102,12 @@
     <img class="img-responsive project-image" src="assets/images/projects/defensia.png" alt="project name" />
     </div>
     <div class="content">
-        <h3 class="header">Defensia, tower defense multijoueur</h3>
+        <h2 class="ui header">
+          <div class="content">
+            Defensia
+            <div class="sub header">Tower defense multijoueur</div>
+          </div>
+        </h2>
         <div class="description">Un tower defense mutlijoueur développé en binome en deux semaines. Le challenge est surtout technique : le serveur est en PHP threadé et le client en HTML5. Le tout communique par le protocole des websockets.</div>
         <div class="links">
             <div class="ui disabled button tiny"><i class="fa fa-play"></i> Démo</div>
@@ -107,7 +127,11 @@
     <img class="img-responsive project-image" src="assets/images/projects/minelia.png" alt="project name" />
     </div>
     <div class="content">
-        <h3 class="header">Minelia</h3>
+        <h2 class="ui header">
+          <div class="content">
+            Minelia
+          </div>
+        </h2>
         <div class="description">Mini-jeu de plateau produit en 48H pour le challenge biannuel du Ludum Dare 25 (Décembre 2012). Développé en HTML/Jquery.</div>
         <div class="links">
             <a class="ui green button tiny" target="_blank" href="http://minelia.doelia.fr"><i class="fa fa-play"></i> Démo</a>
@@ -126,7 +150,7 @@
     <img class="img-responsive project-image" src="assets/images/projects/dominion.png" alt="project name" />
     </div>
     <div class="content">
-        <h3 class="header">Dominion en ligne</h3>
+        <h2 class="ui header">Dominion en ligne</h2>
         <div class="description">
         <p>
             Clone libre du jeu de carte Dominion. L'interface est en HTML/jQuery et le serveur est en Java.
@@ -157,7 +181,12 @@
     <img class="img-responsive project-image" src="assets/images/projects/kystelia.png" alt="project name" />
     </div>
     <div class="content">
-        <h3 class="header">Kystelia, jeu de gestion de base</h3>
+        <h2 class="ui header">
+          <div class="content">
+            Kystelia
+            <div class="sub header">Jeu de gestion de base par navigateur</div>
+          </div>
+        </h2>
         <div class="description">
         <p>
             Jeu de gestion de base multijoueur par navigateur. Le joueur doit gérer ses installations sur sa base

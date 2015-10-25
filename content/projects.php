@@ -1,7 +1,6 @@
 <section class="latest section">
 	<div class="section-inner">
         <h1 class="ui header">
-          <i class="rocket icon"></i>
           <div class="content">
             Projets personnels
           </div>

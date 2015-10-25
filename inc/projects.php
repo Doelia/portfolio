@@ -16,6 +16,23 @@
     </div><!--//desc-->
 </div><!--//item-->
 
+<div class="item row">
+    <div class="col-md-4 col-sm-4 col-xs-12" href="" target="_blank">
+    <img class="img-responsive project-image" src="assets/images/projects/survivia.png" alt="project name" />
+    </div>
+    <div class="desc col-md-8 col-sm-8 col-xs-12">
+        <h3 class="title">Heliko</h3>
+        <p>
+
+        Toutes les informations sur le repo <a href="https://github.com/doelia/bourbaki" target="_blank">Github</a>.
+        </p>
+        <p>
+            <a class="btn btn-cta-primary btn-xs" href="https://github.com/doelia/bourbaki" target="_blank"><i class="fa fa-github"></i> Github</a>
+            <a class="btn btn-cta-primary btn-xs" href="http://bourbaki.doelia.fr:2000" target="_blank"><i class="fa fa-play"></i> Démo</a>
+        </p>
+    </div><!--//desc-->
+</div><!--//item-->
+
 
 <div class="item row">
     <div class="col-md-4 col-sm-4 col-xs-12" href="" target="_blank">
@@ -60,12 +77,12 @@
     </div>
     <div class="desc col-md-8 col-sm-8 col-xs-12">
         <h3 class="title">Defensia, tower defense multijoueur</h3>
-        <p>Un tower defense mutlijoueur développé en deux semaines. Le challenge est surtout technique : le serveur est en PHP threadé et le client en HTML5. Le tout communique par le protocole des websockets.</p>
+        <p>Un tower defense mutlijoueur développé en binome en deux semaines. Le challenge est surtout technique : le serveur est en PHP threadé et le client en HTML5. Le tout communique par le protocole des websockets.</p>
         <p>
             <a href="assets/images/projects/hd/defensia-1.jpg" class="btn btn-cta-primary btn-xs" data-lightbox="image-3" data-title="Defensia"><i class="fa fa-file-picture-o"></i> Screenshots</a>
-              <a href="assets/images/projects/hd/defensia-2.jpg" data-lightbox="image-3" data-title="Rejoindre une partie"></a>
-             <a href="assets/images/projects/hd/defensia-3.jpg" data-lightbox="image-3" data-title="Changement de vague"></a>
-             <a href="assets/images/projects/hd/defensia-4.jpg" data-lightbox="image-3" data-title="Editeur de map, réalisé par L.Noé"></a>
+            <a href="assets/images/projects/hd/defensia-2.jpg" data-lightbox="image-3" data-title="Rejoindre une partie"></a>
+            <a href="assets/images/projects/hd/defensia-3.jpg" data-lightbox="image-3" data-title="Changement de vague"></a>
+            <a href="assets/images/projects/hd/defensia-4.jpg" data-lightbox="image-3" data-title="Editeur de map, réalisé par L.Noé"></a>
             <a class="btn btn-cta-primary btn-xs" href="https://github.com/doelia/defensia" target="_blank"><i class="fa fa-github"></i> Github</a>
         </p>
     </div><!--//desc-->

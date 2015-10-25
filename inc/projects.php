@@ -171,8 +171,6 @@
 
 <hr class="divider">
 
-
-
 <?php } else { ?>
     <a href="projects.html">Toutes mes réalisations sur leur page dédiée</a>
 <?php } ?>

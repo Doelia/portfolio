@@ -1,0 +1,162 @@
+﻿<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="description" content="Suivez l'évolution des risques qui menacent votre commune ou votre entreprise en temps réel."/>
+    <meta name="hostname" content="c02.predict-ovea.com"/>
+	<title>:: Espace wiki-predict ::</title>
+
+	<link href="http://fonts.googleapis.com/css?family=Lato|Open+Sans:800&subset=latin-ext,latin" rel="stylesheet" type="text/css"/>
+	<link href="http://client.wiki-predict.com/system/libs/minify-js/index.php?f=
+	assets/js/tablesorter-master/css/theme.metro-dark.css,
+	assets/vendor/font-awesome-4.3.0/css/font-awesome.min.css,
+	assets/css/generated/wiki.css" rel="stylesheet"/>
+	<!--[if IE]><link href="http://client.wiki-predict.com/assets/css/wiki/ie.css" rel="stylesheet"/><![endif]-->
+
+	<script type="text/javascript" charset="utf-8">
+		var root_url = 'http://client.wiki-predict.com/';
+		var site_url = '';
+		var ext = 'http://client.wiki-predict.com/ext/';
+		var session_verif = '2';
+		var assets = 'http://client.wiki-predict.com/assets/';
+		var _ISAPP_ = false;
+	</script>
+	
+	<script type="text/javascript" charset="utf-8" src="http://www.google.com/jsapi"></script>
+	<script type="text/javascript" charset="utf-8">google.load("maps", "3", {other_params:"sensor=false"});</script>
+	
+
+	<link rel="shortcut icon" href="http://client.wiki-predict.com/favicon.ico"/>
+	<link rel="icon" href="http://client.wiki-predict.com/favicon.ico"/>
+</head>
+
+<body class="page login">
+	<header class="header">
+		<div class="head">
+			<div class="bg_left"></div>
+			<div class="bg_right"></div>
+			<div class="logo"></div>
+			
+		</div>
+		<div class="main navbar" role="navigation">
+			<div class="pointer"></div>
+
+			<div class="container-fluid">
+
+				<a href="accueil.html">
+					<img src="http://client.wiki-predict.com/assets/images/wiki/design/logo.png" class="logo"/>
+				</a>
+
+				<p class="navbar-text logo"></p>
+
+				
+			</div>
+		</div>
+	</header>
+
+	
+
+	<div class="modal fade" id="modal_flash" style="display:none;">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+					<h4 class="modal-title">Message Predict : <span id="message_type"></span></h4>
+				</div>
+				<div class="modal-body">
+					<p id="content"></p>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-primary save_flash_lu" data-dismiss="modal">J'ai lu le message</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div id="wrap">
+<div class="container">
+	<div class="row pt40 pb40 mb40 mt40">
+		<form action="accueil.html" method="post" role="form" class="form_login">
+			<table class="table table-striped large">
+				<tbody>
+					<tr>
+						<th colspan="2">
+							<h1>Bienvenue sur wiki-predict</h1>
+							<small>Connectez-vous à l'espace wiki-predict <br/> pour pouvoir être informé en direct de la situation hydro-météorologique</small>
+							<br><br>
+						</th>
+					</tr>
+					<tr>
+						<td colspan="2">
+							
+							<div class="clearfix"></div>
+						</td>
+					</tr>	
+					<tr>	
+						<td>					
+							<div class="form-group">
+								<label for="login">Identifiant</label>
+							</div>
+						</td>				
+						<td>
+							<div class="form-group">
+								<input type="text" name="login" id="login" value="" class="form-control" placeholder="Identifiant"/>
+							</div>
+						</td>
+					</tr>
+					<tr>
+						<td><label for="password">Mot de passe</label></td>
+						<td><input type="password" name="password" id="password" class="form-control" placeholder="Mot de passe"/></td>
+					</tr>
+					<tr>
+						<td><a href="login.html?password=retrieve" title="Mot de passe oublié">Mot de passe oublié <i class="fa fa-caret-right fa-fw"></i></a></td>
+						<td colspan="">
+							<div class="form-group">
+								<input type="hidden" name="espace" value="wiki"/>
+							</div>
+							<div class="form-group">
+								<input type="submit" value="Connexion" class="form-control btn btn-primary"/>
+							</div>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</form>
+	</div>	
+</div>	</div>
+	<footer>
+		<div class="footer footerDiv">
+
+			<div class="colorLine"></div>
+			<p class="navbar-text slogan">Le risque sous haute surveillance</p>
+			
+			<div class="">
+				<div class="aboutGroup nav navbar-nav navbar-right hidden-xs">
+					<div class="btn-group ">
+						<button type="button" class="btn btn-primary dropdown-toggle  btn-sm" data-toggle="dropdown">
+							<li class="fa fa-bars"></li>
+						</button>
+						<ul class="about dropdown-menu" role="menu">
+							<!-- <li><a href="mentions_legales.html">Mentions légales</a></li> -->
+							<li class="divider"></li>
+							<li><a href="http://www.poisson-soluble.com/" target="_blank">Création Poisson Soluble</a></li>
+						</ul>
+					</div>
+				</div>
+
+				<p class="credits navbar-text navbar-right">
+					<a href="contact.html" class="navbar-link">Contact</a>
+				</p>
+			</div>
+
+		</div>
+	</footer>
+
+	
+	
+
+
+</body>
+</html>

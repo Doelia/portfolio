@@ -201,4 +201,5 @@
 <h4 class="ui horizontal header divider">
     <a href="projects.html">Suite de mes réalisations</a>
 </h4>
+<br>
 <?php } ?>

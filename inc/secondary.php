@@ -64,12 +64,12 @@
 	<div class="section-inner">
 		<h2 class="heading">Liens</h2>
 		<div class="content">
-            <p>
+            <!-- <p>
                 <a class="more-link" href="private/CV/CV.pdf" target="_blank"><i class="fa fa-jobs"></i> Projets personnels</a>
             </p>
             <p>
                 <a class="more-link" href="private/CV/CV.pdf" target="_blank"><i class="fa fa-jobs"></i> Parcours professionel</a>
-            </p>
+            </p> -->
             <p>
                 <a class="more-link" href="private/CV/CV.pdf" target="_blank"><i class="fa fa-download"></i> CV (PDF)</a>
             </p>

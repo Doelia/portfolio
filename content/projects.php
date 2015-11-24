@@ -4,7 +4,7 @@
           <div class="content">
             Projets personnels
           </div>
-      </h1>
+        </h1>
       <div class="ui divider"></div>
 		<div class="content">
 			<?php $next = true; require('inc/projects.php'); ?>

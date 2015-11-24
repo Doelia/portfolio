@@ -94,7 +94,7 @@
             <a href="assets/images/projects/hd/defensia-1.jpg" class="ui primary button tiny" data-lightbox="image-3" data-title="Defensia"><i class="fa fa-file-picture-o"></i> Screenshots</a>
             <a href="assets/images/projects/hd/defensia-2.jpg" data-lightbox="image-3" data-title="Rejoindre une partie"></a>
             <a href="assets/images/projects/hd/defensia-3.jpg" data-lightbox="image-3" data-title="Changement de vague"></a>
-            <a href="assets/images/projects/hd/defensia-4.jpg" data-lightbox="image-3" data-title="Editeur de map, réalisé par L.Noé"></a>
+            <a href="assets/images/projects/hd/defensia-4.jpg" data-lightbox="image-3" data-title="Editeur de map, réalisé par Noé Le Philippe"></a>
             <a class="ui primary button tiny" href="https://github.com/doelia/defensia" target="_blank"><i class="fa fa-github"></i> Github</a>
         </div>
     </div>
